@@ -1,0 +1,18 @@
+import java.util.Scanner;
+class HockyGame
+{
+	public static void main(String[] args)
+	{
+		Scanner sc = new Scanner (System.in);
+		System.out.print("Enter Team Position (0 and 1):");
+		long num = sc.nextLong();
+		int len = 0;
+		for (int i=num; i>0 ;i/=10 )
+		{
+			len++;
+		}
+         System.out.println(len);
+	}
+
+	
+}
