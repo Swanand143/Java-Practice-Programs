@@ -1,10 +1,5 @@
 
-		System.out.print("Enter a Number : ");
-		int  num = new Scanner(System.in).nextInt();
-		int dup = num;
-		int sum = 0;
-		int sum2 = 0;
-		int evenSum = 0;
+		
 		while (num>0)
 		{
 			int rem = num%10;
