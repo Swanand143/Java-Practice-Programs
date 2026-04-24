@@ -1,8 +1,4 @@
-import java.util.Scanner;
-class SumOfDigit3
-{
-	public static void main(String[] args)
-	{
+
 		System.out.print("Enter a Number : ");
 		int  num = new Scanner(System.in).nextInt();
 		int dup = num;
