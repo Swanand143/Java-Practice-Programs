@@ -1,8 +1,4 @@
-import java.util.*;
-class ScannerClass4
-  {
-	public static void main(String[] args)
-	  {
+
 		Scanner ab = new Scanner(System.in);
 		System.out.print("Enter a character:");
 		char ch1 = ab.next().charAt(0); //Java
