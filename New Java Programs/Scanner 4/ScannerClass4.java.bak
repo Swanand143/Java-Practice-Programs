@@ -1,8 +1,5 @@
 
-		Scanner ab = new Scanner(System.in);
-		System.out.print("Enter a character:");
-		char ch1 = ab.next().charAt(0); //Java
-		System.out.println(ch1); //Op- J
+		
 
 		System.out.print("Enter a character:");
 		char ch2 = ab.next().charAt(2); //Java
