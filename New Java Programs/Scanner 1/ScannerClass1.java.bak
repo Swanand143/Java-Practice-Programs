@@ -1,8 +1,4 @@
-import java.util.Scanner;
-Class ScannerClass1
-  {
-	  public static void main(String[] args)
-	  {
+
 		  Scanner sc=new Scanner (System.in);
           System.out.print("Enter num1:");
 		  int num1 = sc.nextInt();
