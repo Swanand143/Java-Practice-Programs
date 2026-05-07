@@ -1,11 +1,1 @@
 
-		}
-		if (rev>Integer.MAX_VALUE||rev<Integer.MIN_VALUE)
-		{
-			System.out.println(0);
-		}
-		else{
-		System.out.println("Reverse No : "+rev);
-		}
-	}
-}
