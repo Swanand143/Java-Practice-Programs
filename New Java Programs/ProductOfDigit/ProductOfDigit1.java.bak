@@ -1,11 +1,1 @@
 
-{
-	
-			int rem = num%10;
-			sum *= rem;
-			num/=10;
-
-		}
-		System.out.println("Product of all digits in number : " + sum);
-	}
-}
