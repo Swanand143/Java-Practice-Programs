@@ -1,7 +1,1 @@
-l
-				pow*=i;
-			}
-			System.out.print((pow+i)+" ");
-		}
-	}
-}
+
