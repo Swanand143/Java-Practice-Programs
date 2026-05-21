@@ -1,10 +1,5 @@
 
-		Scanner sc = new Scanner(System.in);
-		System.out.println("\n<--- Find Prime Number --->\n");
-		System.out.print("Enter Starting Number : ");
-		int num1 = sc.nextInt();
-		int dup = num1;
-		System.out.print("Enter Ending Number : ");
+		Ending Number : ");
 		int num2 = sc.nextInt();
 		System.out.println();
 		int cnt =0;
