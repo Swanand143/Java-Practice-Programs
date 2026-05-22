@@ -1,8 +1,4 @@
-import java.util.Scanner;
-class GoodPrime
-{
-	public static void main(String[] args)
-	{
+
 		Scanner sc = new Scanner(System.in);
 		System.out.println("\n<--- Good Prime Number --->\n");
 		System.out.print("Enter Starting Number : ");
