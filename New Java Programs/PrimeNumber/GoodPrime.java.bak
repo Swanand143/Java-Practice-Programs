@@ -1,7 +1,4 @@
-
-		Scanner sc = new Scanner(System.in);
-		System.out.println("\n<--- Good Prime Number --->\n");
-		System.out.print("Enter Starting Number : ");
+ Starting Number : ");
 		int num1 = sc.nextInt();
 		System.out.print("Enter Ending Number : ");
 		int num2 = sc.nextInt();
