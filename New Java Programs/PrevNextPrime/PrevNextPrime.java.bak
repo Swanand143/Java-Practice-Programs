@@ -1,13 +1,3 @@
-import java.util.Scanner;
-class PrevNextPrime
-{
-	public static void main(String[] args)
-	{
-		System.out.print("Enter a number : ");
-		int num = new Scanner(System.in).nextInt();
-		int pprime = 0;
-		int nprime = 0;
-
 		for (int i=num-1; i>=2; i--)
 		{
 			boolean flag = true;
