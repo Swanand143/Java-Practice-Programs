@@ -1,6 +1,3 @@
-	int marks = new Scanner(System.in).nextInt();
-		float percentage = (marks/600f)*100f;
-		System.out.println("Percentage is: "+percentage+"%");
 		String ans = (percentage>=75)?"Grade A":
 			         (percentage>=65)?"Grade B":
 			         (percentage>=35)?"Grade C": 
