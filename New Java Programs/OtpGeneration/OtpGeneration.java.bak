@@ -1,8 +1,3 @@
-class OtpGeneration
-{
-	public static void main(String[] args)
-	{
-		String otp ="";//otp initially empty
 
 		for (int cnt=1 ;cnt<=10 ; )//only 10 otp are generated
 		{
