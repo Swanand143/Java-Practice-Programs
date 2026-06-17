@@ -1,8 +1,4 @@
-import java.util.Scanner;
-class NumberToWord
-{
-	public static void main(String[] args)
-	{
+
 		System.out.println("<----- Number To Word ----->");
 		Scanner ab = new Scanner(System.in);
 		System.out.print("Enter a number : ");
