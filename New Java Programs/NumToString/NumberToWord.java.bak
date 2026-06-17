@@ -1,7 +1,6 @@
 
 		
-		int num = ab.nextInt();
-		String word = ""; // empty now
+		
 
 		if (num == 0) {
             System.out.println("0 = Zero");
