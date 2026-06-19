@@ -1,8 +1,7 @@
 
 		
 		
-		System.out.println("Reverse No : "+rev);
-		if (dup==rev)
+			if (dup==rev)
 		{
 			System.out.println(num+"is a palindrome");
 		}
