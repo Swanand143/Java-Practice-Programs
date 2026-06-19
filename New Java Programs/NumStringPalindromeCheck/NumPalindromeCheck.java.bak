@@ -1,10 +1,7 @@
 
 		
 		
-			if (dup==rev)
-		{
-			System.out.println(num+"is a palindrome");
-		}
+			
 	    else
 		{
 			System.out.println(num+"is not a palindrome");
