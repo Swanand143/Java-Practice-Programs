@@ -1,6 +1,5 @@
 
-			int len = str.length();
-		String revString = "";
+			
 		for (int i=0; i<len ; i++ )
 		{
 			char ch = str.charAt(i);
