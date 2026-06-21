@@ -1,11 +1,7 @@
 
 			
 		
-		System.out.println("Reverse String is "+revString+);
-		if (str.equals(revString))
-		{
-			System.out.println(str+" is a Palindrome");
-		}
+		
 	    else
         {
 			System.out.println(str+" is not a Palindrome");
