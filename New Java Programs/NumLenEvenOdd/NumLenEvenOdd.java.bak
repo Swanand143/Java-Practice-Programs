@@ -1,6 +1,5 @@
 
-	public static void main(String[] args)
-	{
+	
 		Scanner ab = new Scanner(System.in);
 		System.out.print("\n Enter a number : ");
 		String num = ab.next();
