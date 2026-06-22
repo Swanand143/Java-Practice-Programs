@@ -1,7 +1,5 @@
 
 	
-		Scanner ab = new Scanner(System.in);
-		System.out.print("\n Enter a number : ");
 		String num = ab.next();
 		int len = num.length();
 		System.out.println("Length of the number : "+len);
