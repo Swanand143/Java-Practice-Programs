@@ -1,6 +1,4 @@
-import java.util.Scanner;
-class NumLenEvenOdd
-{
+
 	public static void main(String[] args)
 	{
 		Scanner ab = new Scanner(System.in);
