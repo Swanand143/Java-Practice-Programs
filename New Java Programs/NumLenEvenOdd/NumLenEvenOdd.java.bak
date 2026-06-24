@@ -2,7 +2,7 @@
 	
 		
 		
-			char ch =num.charAt(i);
+			
 				if (ch%2 == 0)
 				{
 					System.out.print(ch-'0');
