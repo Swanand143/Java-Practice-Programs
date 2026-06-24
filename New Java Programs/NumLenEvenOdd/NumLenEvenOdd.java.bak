@@ -1,8 +1,7 @@
 
 	
 		
-		for (int i = 0; i<len; i++ )
-		{
+		
 			if (len%2==0)
 			{
 				char ch =num.charAt(i);
