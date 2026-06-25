@@ -4,10 +4,7 @@
 		
 			
 				
-				else
-				{
-					System.out.print(((ch+=1)-'0'));
-				}
+				
 			}
 			else
 			{
