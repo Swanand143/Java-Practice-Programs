@@ -3,10 +3,7 @@
 		
 		
 			
-				if (ch%2 == 0)
-				{
-					System.out.print(ch-'0');
-				}
+				
 				else
 				{
 					System.out.print(((ch+=1)-'0'));
