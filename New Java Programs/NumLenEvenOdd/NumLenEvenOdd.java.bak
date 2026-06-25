@@ -5,9 +5,7 @@
 			
 				
 				
-			}
-			else
-			{
+			
 				char ch =num.charAt(i);
 				if (ch%2 == 0)
 				{
