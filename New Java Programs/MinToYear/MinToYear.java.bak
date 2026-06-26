@@ -1,6 +1,4 @@
-i
-	public static void main(String[] args)
-	{
+
 		System.out.print("Enter a min: ");
 		long min = new Scanner(System.in).nextLong();
 		long minInYear = (365*24*60);
