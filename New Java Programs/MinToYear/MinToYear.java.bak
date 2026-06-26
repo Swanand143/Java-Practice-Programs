@@ -1,6 +1,4 @@
-
-		System.out.print("Enter a min: ");
-		long min = new Scanner(System.in).nextLong();
+	long min = new Scanner(System.in).nextLong();
 		long minInYear = (365*24*60);
 		long totalYear = min/minInYear;
 		long minInDay = (24*60);
