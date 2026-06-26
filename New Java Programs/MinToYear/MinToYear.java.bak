@@ -1,6 +1,4 @@
-import java.util.Scanner;
-class MinToYear
-{
+i
 	public static void main(String[] args)
 	{
 		System.out.print("Enter a min: ");
