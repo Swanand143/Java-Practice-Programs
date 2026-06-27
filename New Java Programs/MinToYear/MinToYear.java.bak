@@ -1,5 +1,4 @@
-	long min = new Scanner(System.in).nextLong();
-		long minInYear = (365*24*60);
+	long minInYear = (365*24*60);
 		long totalYear = min/minInYear;
 		long minInDay = (24*60);
 	    long remMin = min%minInYear;
