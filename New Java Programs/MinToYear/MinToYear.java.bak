@@ -1,5 +1,4 @@
-	long minInYear = (365*24*60);
-		long totalYear = min/minInYear;
+	long totalYear = min/minInYear;
 		long minInDay = (24*60);
 	    long remMin = min%minInYear;
 		long totalDay = remMin/minInDay;
