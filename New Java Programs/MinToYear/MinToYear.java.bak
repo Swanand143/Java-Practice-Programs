@@ -1,5 +1,5 @@
 	
-	    long remMin = min%minInYear;
+	    
 		long totalDay = remMin/minInDay;
 		System.out.println(totalYear + "Years" + totalDay + "Days");
 	}
