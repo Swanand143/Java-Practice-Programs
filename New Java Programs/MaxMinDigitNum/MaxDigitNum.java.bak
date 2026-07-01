@@ -1,5 +1,5 @@
 
-			int digit = i%10;
+			
 			if (max<digit)
 			{
 				max = digit;
