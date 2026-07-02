@@ -3,6 +3,6 @@
 			
 			
 		}
-		System.out.println("Largest Digit From "+num+" is "+max);
+		 Digit From "+num+" is "+max);
 	}
 }
