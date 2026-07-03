@@ -1,5 +1,4 @@
 
-class MinDigitNum
 {
 	public static void main(String[] args)
 	{
