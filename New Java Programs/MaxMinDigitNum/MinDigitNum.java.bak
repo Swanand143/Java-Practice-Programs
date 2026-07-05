@@ -1,6 +1,4 @@
-
-	if (min>digit)//compare the min with last digit
-			{
+  	        {
 				min = digit;
 			}
 		}
