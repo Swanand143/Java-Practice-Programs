@@ -1,6 +1,4 @@
-  	        {
-				min = digit;
-			}
+
 		}
 		System.out.println("Largest Digit From "+num+" is "+min);
 	}
