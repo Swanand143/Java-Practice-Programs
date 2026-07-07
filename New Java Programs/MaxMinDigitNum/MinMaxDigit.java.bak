@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class MinMaxDigitNum
 {
 	public static void main(String[] args)
