@@ -1,5 +1,4 @@
 
-		int min = 9;
 		for (int i=num; i>0 ;i/=10 )
 		{
 			int digit = i%10;
