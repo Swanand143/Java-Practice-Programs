@@ -1,5 +1,4 @@
 
-			if (max<digit) 
 			{
 				max = digit;
 			}
