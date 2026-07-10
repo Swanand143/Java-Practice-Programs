@@ -1,7 +1,4 @@
 
-			{
-				max = digit;
-			}
 			else if (min>digit)
 			{
 				min = digit;
