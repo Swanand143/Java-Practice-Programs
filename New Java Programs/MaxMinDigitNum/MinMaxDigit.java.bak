@@ -1,9 +1,4 @@
 
-			else if (min>digit)
-			{
-				min = digit;
-			}
-		}
 		System.out.println("\nLargest Digit From "+num+" is "+max);
 		System.out.println("\nSmallest Digit From "+num+" is "+min);
 	}
