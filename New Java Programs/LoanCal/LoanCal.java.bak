@@ -1,6 +1,4 @@
-
-		System.out.println("    LOAN CALCULATOR  ");
-		System.out.println();
+System.out.println();
 		System.out.print("Enter the amount : ");
 		float amount = sc.nextFloat();
 		System.out.print("Enter Rate of Interest : ");
