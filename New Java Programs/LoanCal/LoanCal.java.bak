@@ -1,4 +1,4 @@
-System.out.println();
+
 		System.out.print("Enter the amount : ");
 		float amount = sc.nextFloat();
 		System.out.print("Enter Rate of Interest : ");
