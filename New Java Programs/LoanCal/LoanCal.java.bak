@@ -1,6 +1,4 @@
-
-		System.out.print("Enter the amount : ");
-		float amount = sc.nextFloat();
+float amount = sc.nextFloat();
 		System.out.print("Enter Rate of Interest : ");
         float roi = sc.nextFloat();
 		System.out.print("Enter the tenure (months) : ");
