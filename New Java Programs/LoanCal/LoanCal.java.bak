@@ -1,4 +1,3 @@
-int months = sc.nextInt();
 
 		// conversion from months to years
 		String str = (months/12)+"."+(months%12);
