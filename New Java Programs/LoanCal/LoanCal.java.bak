@@ -1,5 +1,4 @@
-System.out.print("Enter the tenure (months) : ");
-		int months = sc.nextInt();
+int months = sc.nextInt();
 
 		// conversion from months to years
 		String str = (months/12)+"."+(months%12);
