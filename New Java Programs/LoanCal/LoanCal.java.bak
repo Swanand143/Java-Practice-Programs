@@ -1,5 +1,4 @@
-        float roi = sc.nextFloat();
-		System.out.print("Enter the tenure (months) : ");
+System.out.print("Enter the tenure (months) : ");
 		int months = sc.nextInt();
 
 		// conversion from months to years
