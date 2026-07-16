@@ -1,6 +1,4 @@
-
-		// conversion from months to years
-		String str = (months/12)+"."+(months%12);
+String str = (months/12)+"."+(months%12);
 		float con = Float.parseFloat(str);
 
 		System.out.println();
