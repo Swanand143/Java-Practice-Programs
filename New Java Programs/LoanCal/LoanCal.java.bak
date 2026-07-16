@@ -1,5 +1,4 @@
-String str = (months/12)+"."+(months%12);
-		float con = Float.parseFloat(str);
+float con = Float.parseFloat(str);
 
 		System.out.println();
 		System.out.println("LOAN CALCULATION");
