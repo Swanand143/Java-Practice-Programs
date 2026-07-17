@@ -1,5 +1,4 @@
-System.out.println("LOAN CALCULATION");
-		System.out.println("Princial Amount : "+amount);
+System.out.println("Princial Amount : "+amount);
 		System.out.println("Rate of Intrest : "+roi+"%");
 		System.out.println("Tenure : "+months+ " months");
 
