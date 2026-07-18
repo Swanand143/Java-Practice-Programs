@@ -1,4 +1,3 @@
-System.out.println("Tenure : "+months+ " months");
 
 		float intYear = (amount*roi)/100f;
 		float totalInter = intYear*con;
