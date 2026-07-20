@@ -1,5 +1,4 @@
-("Total Outstanding Amount : "+ (outStanding));
-		System.out.println("Emi : "+ (outStanding/months)+" Rs");
+	System.out.println("Emi : "+ (outStanding/months)+" Rs");
 	}
 }
  
