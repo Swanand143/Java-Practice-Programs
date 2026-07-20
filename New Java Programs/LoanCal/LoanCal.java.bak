@@ -1,4 +1,1 @@
-	System.out.println("Emi : "+ (outStanding/months)+" Rs");
-	}
-}
- 
+
