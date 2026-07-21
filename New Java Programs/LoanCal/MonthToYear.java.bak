@@ -1,5 +1,3 @@
-
-class MonthToYear
 {
 	public static void main(String[] args)
 	{
