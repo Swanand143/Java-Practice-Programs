@@ -1,6 +1,4 @@
-
-		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter the months : ");
+System.out.print("Enter the months : ");
 		int month = sc.nextInt();
 		int year = month/12;
 		int remMon = month%12;
