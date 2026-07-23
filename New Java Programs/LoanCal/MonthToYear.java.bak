@@ -1,5 +1,4 @@
-	int remMon = month%12;
-		String str = year + "."+remMon;
+String str = year + "."+remMon;
 		float con = Float.parseFloat(str);
 		System.out.println(con+" Year");
 
