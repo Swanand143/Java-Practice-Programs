@@ -1,4 +1,4 @@
-String str = year + "."+remMon;
+
 		float con = Float.parseFloat(str);
 		System.out.println(con+" Year");
 
