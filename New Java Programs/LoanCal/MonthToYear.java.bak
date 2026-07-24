@@ -1,4 +1,4 @@
-Float.parseFloat(str);
+
 		System.out.println(con+" Year");
 
 	}
