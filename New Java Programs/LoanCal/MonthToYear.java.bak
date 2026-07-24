@@ -1,5 +1,4 @@
-
-		float con = Float.parseFloat(str);
+Float.parseFloat(str);
 		System.out.println(con+" Year");
 
 	}
