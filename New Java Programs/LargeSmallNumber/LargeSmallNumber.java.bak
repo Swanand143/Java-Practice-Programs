@@ -1,5 +1,4 @@
 
-class LargeSmallNumber
 {
 	public static void main(String[] args)
 	{
