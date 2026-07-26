@@ -1,6 +1,4 @@
-int num1 = new Scanner(System.in).nextInt();
-
-		System.out.print("Enter num 2: ");
+	System.out.print("Enter num 2: ");
 		int num2 = new Scanner(System.in).nextInt();
 
 		System.out.print("Enter num 3: ");
