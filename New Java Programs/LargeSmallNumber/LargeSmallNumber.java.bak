@@ -1,7 +1,1 @@
 
-		System.out.println("Larger number is: "+large);
-		//System.out.println("Smaller number is: "+small);
-
-
-	}
-}
