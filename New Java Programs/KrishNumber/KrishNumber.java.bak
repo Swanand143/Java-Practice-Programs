@@ -1,5 +1,4 @@
 
-		int dup = num;
 		int sum = 0;
 		while (num>0)
 		{
