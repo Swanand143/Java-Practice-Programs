@@ -1,6 +1,4 @@
 
-		{
-			int rem = num%10;
 			int fact = 1;
 			for (int i = rem; i>=1; i-- )
 			{
