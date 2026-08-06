@@ -1,7 +1,4 @@
 
-			{
-				fact *= i;
-			}
 				sum += fact;
 				num/=10;
 		}
