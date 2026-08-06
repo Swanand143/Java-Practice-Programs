@@ -1,5 +1,4 @@
 
-				sum += fact;
 				num/=10;
 		}
 		System.out.println(sum);
