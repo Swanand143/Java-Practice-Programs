@@ -1,6 +1,4 @@
 
-		}
-		System.out.println(sum);
 		System.out.println(dup==sum?dup+" it is Krish Number":dup+" it is not Krish Number");
 	}
 }
