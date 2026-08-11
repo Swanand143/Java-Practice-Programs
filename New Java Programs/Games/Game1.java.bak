@@ -1,6 +1,4 @@
 
-	public static void main(String [] args)
-	{
 		Scanner ab = new Scanner(System.in);
 		int rNum = 0; //store a random number between 1 to 3
 		for( ; ; )
