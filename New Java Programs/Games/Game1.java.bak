@@ -1,6 +1,4 @@
-
-		Scanner ab = new Scanner(System.in);
-		int rNum = 0; //store a random number between 1 to 3
+int rNum = 0; //store a random number between 1 to 3
 		for( ; ; )
 		{
 			// math.random() Fn generats a double value from 0.0000...  something
