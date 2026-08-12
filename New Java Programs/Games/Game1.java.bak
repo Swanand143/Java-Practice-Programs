@@ -1,5 +1,4 @@
-int rNum = 0; //store a random number between 1 to 3
-		for( ; ; )
+int for( ; ; )
 		{
 			// math.random() Fn generats a double value from 0.0000...  something
 			// we multiply the same value by 10
