@@ -1,5 +1,4 @@
-	// we multiply the same value by 10
-			// for getting an integer value from  math.random() Fn we used typeCasting
+	// for getting an integer value from  math.random() Fn we used typeCasting
 			int num =(int)(Math.random()*10);
 			System.out.println(num);
 			if(num>=1 && num<=3) //checked the digit is between 1 to 3
