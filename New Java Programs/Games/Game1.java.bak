@@ -1,7 +1,4 @@
-
-		{
-			// math.random() Fn generats a double value from 0.0000...  something
-			// we multiply the same value by 10
+	// we multiply the same value by 10
 			// for getting an integer value from  math.random() Fn we used typeCasting
 			int num =(int)(Math.random()*10);
 			System.out.println(num);
