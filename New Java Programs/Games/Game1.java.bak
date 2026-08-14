@@ -1,5 +1,4 @@
-			System.out.println(num);
-			if(num>=1 && num<=3) //checked the digit is between 1 to 3
+	if(num>=1 && num<=3) //checked the digit is between 1 to 3
 			{
 				rNum = num; //then only store
 				break; //if digit found between 1 to 3 then terminate the loop
