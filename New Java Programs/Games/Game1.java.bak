@@ -1,8 +1,4 @@
-
-		
-
-		//whatever random value is generated we need to map it with the option
-		String codeOpt = null ;
+	String codeOpt = null ;
 		if(rNum == 1){
 			codeOpt = "STONE";
 		}
