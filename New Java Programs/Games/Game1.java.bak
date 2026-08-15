@@ -1,7 +1,4 @@
-	break; //if digit found between 1 to 3 then terminate the loop
-			}
-	
-		}
+
 		
 
 		//whatever random value is generated we need to map it with the option
