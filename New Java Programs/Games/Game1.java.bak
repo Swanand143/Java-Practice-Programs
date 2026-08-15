@@ -1,6 +1,4 @@
-        	{
-				rNum = num; //then only store
-				break; //if digit found between 1 to 3 then terminate the loop
+	break; //if digit found between 1 to 3 then terminate the loop
 			}
 	
 		}
