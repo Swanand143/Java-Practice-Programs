@@ -1,6 +1,4 @@
 
-			codeOpt = "STONE";
-		}
 		else if(rNum == 2){
 			codeOpt = "PAPER";
 		}
