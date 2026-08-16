@@ -1,5 +1,4 @@
 
-		if(rNum == 1){
 			codeOpt = "STONE";
 		}
 		else if(rNum == 2){
