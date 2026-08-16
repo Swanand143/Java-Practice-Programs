@@ -1,4 +1,4 @@
-	String codeOpt = null ;
+
 		if(rNum == 1){
 			codeOpt = "STONE";
 		}
