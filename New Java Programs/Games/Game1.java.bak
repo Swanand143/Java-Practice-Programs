@@ -1,6 +1,4 @@
 
-		}
-		else if(rNum == 3){
 			codeOpt = "SCISSOR";
 		}
 
