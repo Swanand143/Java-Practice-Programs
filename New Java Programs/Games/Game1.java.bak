@@ -1,5 +1,4 @@
 
-		else if(rNum == 2){
 			codeOpt = "PAPER";
 		}
 		else if(rNum == 3){
