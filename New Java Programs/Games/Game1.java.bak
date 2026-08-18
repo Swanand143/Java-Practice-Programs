@@ -1,6 +1,4 @@
 
-			codeOpt = "SCISSOR";
-		}
 
 		System.out.println();
 		System.out.println("    WELCOME");
