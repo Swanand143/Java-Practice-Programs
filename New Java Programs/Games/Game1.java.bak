@@ -1,5 +1,4 @@
 
-		String userOpt = null;
 		if(opt == 1){
 			userOpt ="STONE";
 		}
