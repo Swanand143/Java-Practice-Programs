@@ -1,5 +1,4 @@
 
-		if(opt == 1){
 			userOpt ="STONE";
 		}
 		else if(opt == 2){
