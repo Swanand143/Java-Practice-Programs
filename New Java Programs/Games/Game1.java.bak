@@ -1,6 +1,4 @@
 
-			userOpt ="STONE";
-		}
 		else if(opt == 2){
 			userOpt ="PAPER";
 		}
