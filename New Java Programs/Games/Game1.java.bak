@@ -1,6 +1,4 @@
 
-			userOpt ="PAPER";
-		}
 		else if(opt == 3){
 			userOpt ="SCISSOR";
 		}
