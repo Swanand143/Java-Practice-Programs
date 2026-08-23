@@ -1,6 +1,4 @@
 
-		else
-		{
 			System.out.println("INVALID OPTION");
 			return; //if invalid option then terminate the execution
 		}	
