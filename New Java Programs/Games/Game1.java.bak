@@ -1,7 +1,4 @@
-
-
-		System.out.println("User : "+userOpt+"  Bot : "+codeOpt);
-		if((opt==1 && rNum==3)||(opt==2 && rNum==1)||(opt==3 && rNum==2))
+if((opt==1 && rNum==3)||(opt==2 && rNum==1)||(opt==3 && rNum==2))
 		{
 			System.out.println("User Wins");
 		}
