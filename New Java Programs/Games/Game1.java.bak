@@ -1,6 +1,4 @@
-
-			System.out.println("INVALID OPTION");
-			return; //if invalid option then terminate the execution
+return; //if invalid option then terminate the execution
 		}	
 
 		System.out.println("User : "+userOpt+"  Bot : "+codeOpt);
