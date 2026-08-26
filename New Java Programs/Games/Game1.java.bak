@@ -1,6 +1,4 @@
 
-			System.out.println("Bot Wins");
-		}
 		else
 		{
 			System.out.println("Match Draw");
