@@ -1,6 +1,4 @@
 
-		else
-		{
 			System.out.println("Match Draw");
 		}
 		
