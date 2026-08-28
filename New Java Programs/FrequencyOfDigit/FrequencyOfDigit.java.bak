@@ -1,5 +1,4 @@
-System.out.print("Enter a number : \n");
-		long num = sc.nextLong();
+long num = sc.nextLong();
 		for (int i = 0; i<=9 ; i++)
 		{
 			int cnt = 0;
