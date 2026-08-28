@@ -1,6 +1,4 @@
-
-		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter a number : \n");
+System.out.print("Enter a number : \n");
 		long num = sc.nextLong();
 		for (int i = 0; i<=9 ; i++)
 		{
