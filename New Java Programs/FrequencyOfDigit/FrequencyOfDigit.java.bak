@@ -1,5 +1,4 @@
 
-				long rem = j%10;
 				if (i==rem)
 				{
 					cnt++;
